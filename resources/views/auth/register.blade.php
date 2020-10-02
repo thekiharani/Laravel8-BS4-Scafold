@@ -1,7 +1,6 @@
 @extends('layouts.master')
 
 @section('content')
-@include('layouts._navbar')
 <div class="container my-5">
     <div class="row justify-content-center">
         <div class="col-md-6">
